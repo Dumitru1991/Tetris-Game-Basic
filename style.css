@@ -1,5 +1,5 @@
 body{
-    background-image: url(/img/image1.JPG);
+    background-image: url(Img/Img1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -49,7 +49,7 @@ h2{
     height: 400px;
     display: flex;
     flex-wrap: wrap;
-    background-image: url(/img/image2.JPG);
+    background-image: url(Img/Img2.jpg);
     background-size: cover;
     border: 3px solid #130a29;
     border-radius: 1px;
@@ -73,7 +73,7 @@ h2{
     height: 80px;
     display: flex;
     flex-wrap: wrap;
-    background-image: url(/img/image2.JPG);
+    background-image: url(Img/Img2.jpg);
     background-size: cover;
     border: 3px solid #130a29;
     border-radius: 15px;
